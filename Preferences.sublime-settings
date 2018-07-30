@@ -1,0 +1,12 @@
+{
+	"auto_complete": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"sublimelinter": false,
+	"tab_size": 3,
+	"theme": "Material-Theme.sublime-theme",
+	"word_wrap": true
+}
