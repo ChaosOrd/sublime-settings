@@ -1,12 +1,13 @@
 {
 	"auto_complete": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"sublimelinter": false,
-	"tab_size": 3,
+	"tab_size": 4,
 	"theme": "Material-Theme.sublime-theme",
 	"word_wrap": true
 }

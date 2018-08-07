@@ -1,0 +1,3 @@
+{
+	"last_test_run": "nosetests  Tests.test_SampleTest"
+}
