@@ -1,3 +1,3 @@
 {
-	"last_test_run": "nosetests  Tests.test_SampleTest"
+	"last_test_run": "~/miniconda/envs/garage/bin/python -m unittest  Trax.Apps.Services.IOT.Management.App.Tasks.Tests.test_functional_StoreProducts.TestStoreProducts"
 }

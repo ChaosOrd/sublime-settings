@@ -1,4 +1,7 @@
 [
 	{ "keys": ["ctrl+n"], "command": "advanced_new_file_new"},
-	{ "keys": ["alt+shift+t"], "command": "terminal_view_open", "args": {"cmd": "/bin/zsh"}}
+	{ "keys": ["alt+shift+t"], "command": "terminal_view_open", "args": {"cmd": "/bin/zsh"}},
+	{ "keys": ["super+alt+left"], "command": "jump_back" },
+	{ "keys": ["super+alt+right"], "command": "jump_forward" },
+	{"keys": ["ctrl+shift+t"], "command": "anaconda_run_current_test"}
 ]

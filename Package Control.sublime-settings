@@ -5,14 +5,20 @@
 	],
 	"installed_packages":
 	[
+		"3024 Color Scheme",
 		"A File Icon",
 		"AdvancedNewFile",
 		"Anaconda",
+		"Ensime",
+		"Environment Settings",
 		"GitGutter",
+		"jQuery",
 		"Material Theme",
 		"Package Control",
+		"Python Breakpoints",
 		"Python Unittest Helper",
 		"SideBarEnhancements",
+		"SyncedSideBar",
 		"TerminalView"
 	]
 }
