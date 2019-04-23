@@ -1,0 +1,6 @@
+{
+	"env": {
+		"GOROOT": "/usr/lib/go-1.11",
+		"GOPATH": "$HOME/dev/go_learning" 
+	}
+}

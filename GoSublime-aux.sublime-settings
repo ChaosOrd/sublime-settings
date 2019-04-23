@@ -1,0 +1,17 @@
+{
+	"9o.hist.9o":
+	[
+		"go build",
+		"./terraforming",
+		"go doc",
+		"go doc strings",
+		"go doc strings.Trim",
+		"cd . .",
+		"cd ..",
+		"go build src/main.go",
+		"./main"
+	],
+	"ann": "a18.11.28-1",
+	"install_version": "r18.11.28-1",
+	"version": "r18.11.28-1"
+}
